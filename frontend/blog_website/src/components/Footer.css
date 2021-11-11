@@ -1,0 +1,8 @@
+ul {
+    list-style: none;
+}
+
+ul li {
+    text-align: center;
+    margin-right: 2rem;
+}
